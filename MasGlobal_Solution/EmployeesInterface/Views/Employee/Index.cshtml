@@ -1,0 +1,63 @@
+﻿@model IEnumerable<EmployeesInterface.Models.Dto.EmployeeAnualSalaryDto>
+@{ViewBag.Title = "Home Page";}
+
+<div class="jumbotron">
+    <h1>Search Employees</h1>
+    <div class="row">
+        <div class="col-md-3 form-horizontal">
+
+            <br />
+            <input type="number" class="form-control" id="id" name="id" placeholder="ID Employee" required autofocus>
+            <br />
+
+            <button id="sendBtn" name="sendBtn" class="btn btn-primary">
+                Search
+            </button>
+
+
+        </div>
+    </div>
+</div>
+
+<div id="Div" name="Div">
+
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#sendBtn').click(function () {
+            $('#Div').hide(2000);
+            $('#Div').show("slow");
+            if ($("#id").val().length < 1) {
+                var url = 'Employee/employees';
+            } else { var url = 'Employee/EmployeeById/' + $("#id").val(); }
+            $.get(url
+                , null
+                , function (data) {
+                    if (data.length > 0) {
+                        $('#Div').html(data);
+
+                    }
+                }
+            )
+        }
+
+        )
+    });
+    $(function () {
+        var botonMostrar = $("#boton-mostrar"),
+            botonOcultar = $("#boton-ocultar"),
+            parrafo = $("#parrafo");
+
+        botonMostrar.on("click", function () {
+            parrafo.show("slow");
+        });
+        botonOcultar.on("click", function () {
+            parrafo.hide(2000, function () {
+                console.log("Mostrando texto");
+            });
+        });
+    });
+</script>
+
+

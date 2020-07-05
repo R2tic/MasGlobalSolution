@@ -1,0 +1,16 @@
+C:\Lcubides\DotNetProjects\MasGlobal_Solution\DataAcces_Solution\bin\Debug\DataAcces_Solution.dll
+C:\Lcubides\DotNetProjects\MasGlobal_Solution\DataAcces_Solution\bin\Debug\DataAcces_Solution.pdb
+C:\Lcubides\DotNetProjects\MasGlobal_Solution\DataAcces_Solution\obj\Debug\DataAcces_Solution.csproj.CoreCompileInputs.cache
+C:\Lcubides\DotNetProjects\MasGlobal_Solution\DataAcces_Solution\obj\Debug\DataAcces_Solution.dll
+C:\Lcubides\DotNetProjects\MasGlobal_Solution\DataAcces_Solution\obj\Debug\DataAcces_Solution.pdb
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\bin\Debug\DataAcces_Solution.dll
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\bin\Debug\DataAcces_Solution.pdb
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\obj\Debug\DataAcces_Solution.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\obj\Debug\DataAcces_Solution.csproj.CopyComplete
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\obj\Debug\DataAcces_Solution.dll
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\obj\Debug\DataAcces_Solution.pdb
+C:\Users\USER\OneDrive\Escritorio\MasGlobal_Solution\MasGlobal_Solution\DataAcces_Solution\obj\Debug\DataAcces_Solution.csprojAssemblyReference.cache
