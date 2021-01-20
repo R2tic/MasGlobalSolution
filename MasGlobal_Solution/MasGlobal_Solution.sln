@@ -62,5 +62,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {63FED52C-7B87-402D-B480-A8745B7A6E36}
-	EndGlobalSection
+	EdGlobalSection
 EndGlobal
